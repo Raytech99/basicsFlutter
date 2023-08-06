@@ -13,10 +13,10 @@ void main() {
           ),
           child: const Center(
             child: Text(
-              'Hello World CHANGED! again',
+              'Hello World!',
               style: TextStyle(
-                color: Colors.white,
-                fontSize: 28,
+                color: Color.fromARGB(255, 168, 208, 219),
+                fontSize: 40,
               ),
             ),
           ),
